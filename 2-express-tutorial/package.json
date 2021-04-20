@@ -1,0 +1,27 @@
+{
+  "name": "tutorial",
+  "version": "1.0.0",
+  "description": "Thanks [Node.js and Express.js - Full Course](https://www.youtube.com/watch?v=Oe421EPjeBE)",
+  "main": "1-intro.js",
+  "scripts": {
+    "start": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hjfrun/nodejs-expressjs-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hjfrun/nodejs-expressjs-tutorial/issues"
+  },
+  "homepage": "https://github.com/hjfrun/nodejs-expressjs-tutorial#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "lodash": "^4.17.21"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
